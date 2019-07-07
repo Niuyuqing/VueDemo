@@ -4,9 +4,9 @@
       <router-link class="toPage" to="/login">登录</router-link>
       <router-link class="toPage" to="/register">注册</router-link>
     </p>
-    <p>
-      <router-link to="/count">测试vuex</router-link>
-    </p>
+    <p><router-link to="/count">vuex 测试</router-link></p>
+    <p><router-link to="/slot">slot 测试</router-link></p>
+    <p><router-link to="/component">component 测试</router-link></p>
   </div>
 </template>
 

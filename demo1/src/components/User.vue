@@ -53,9 +53,6 @@
         title: ''
       }
     },
-    created() {
-
-    },
     components: {
       FormBox,
       DeleteBox
